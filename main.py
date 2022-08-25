@@ -16,6 +16,3 @@ print("Area is " + str(area))
 print(f"Area is {area:.1f}")
 print(f"Area is {math.pi* radius **2:.1f}")
 
-# phase 6
-print(f"{random.randint(0,999):03d}")
-print(str(random.randint(0,9))+ str(random.randint(0,9)) + str(random.randint(0,9)))
