@@ -1,3 +1,4 @@
+#Name: Xuan Dang
 
 # Phase 1
 name = input("what is your name?")
