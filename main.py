@@ -1,5 +1,6 @@
 #Name: Xuan Dang
-
+import math
+import random
 # Phase 1
 name = input("what is your name?")
 print("Hello, " + name + "!")
